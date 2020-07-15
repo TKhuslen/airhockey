@@ -43,3 +43,8 @@ Comments from the professor:
 
 I think you should use an `<clock.tick(50)>` element here instead.
 
+- [x] @T #refs [links](), **formatting**, and <del>tafa</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] Completed item
+- [ ] Incomplete item
+
