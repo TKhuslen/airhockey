@@ -31,4 +31,4 @@ _I decided to continue it on **Unity** so, keep posted!_
 
 # Links:
 
-![Link to the video](https://www.youtube.com/watch?v=68GN-_RZasE&t=14s)
+https://www.youtube.com/watch?v=68GN-_RZasE&t=14s - automatic!
