@@ -41,5 +41,5 @@ Comments from the professor:
 
 # Inline code
 
-We could use '<clock.tick(50)>' for the timing.
+We could use <clock.tick(50)> for the timing.
 
