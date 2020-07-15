@@ -25,6 +25,10 @@ _I decided to continue it on **Unity** so, keep posted!_
    1. Item 3a
    1. Item 3b
 
-# A preview image of the game:
+# Picture of paddle:
 
 ![Airhockey SS](disc.png)
+
+# Links:
+
+![Link to the video](https://www.youtube.com/watch?v=68GN-_RZasE&t=14s)
