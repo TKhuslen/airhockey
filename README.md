@@ -48,3 +48,15 @@ I think you should use an `<clock.tick(50)>` element here instead.
 - [x] Completed item
 - [ ] Incomplete item
 
+# Tables 
+
+First Header | Second Header
+------------ | -------------
+Content for cell1 | Content for Cell 2
+Content in the first column | Content for Column 2
+
+
+# Strikethrough 
+
+~This will appear crossed out~
+
