@@ -31,4 +31,15 @@ _I decided to continue it on **Unity** so, keep posted!_
 
 # Links:
 
-https://www.youtube.com/watch?v=68GN-_RZasE&t=14s - automatic!
+https://www.youtube.com/watch?v=68GN-_RZasE&t=14s - Link to the demo
+
+# Blockquotes 
+
+Comments from the professor:
+> Add timing so that the players can tie.
+> Clean up the for loops.
+
+# Inline code
+
+We could use '<clock.tick(50)>' for the timing.
+
