@@ -24,3 +24,7 @@ _I decided to continue it on **Unity** so, keep posted!_
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+# A preview image of the game:
+
+![Airhockey SS](/images/disc.png)
