@@ -27,4 +27,4 @@ _I decided to continue it on **Unity** so, keep posted!_
 
 # A preview image of the game:
 
-![Airhockey SS](/images/disc.png)
+![Airhockey SS](disc.png)
