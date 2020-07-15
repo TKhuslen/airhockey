@@ -1,6 +1,6 @@
 # AirHockey 
 ## Arcade game project 
-####### Khuslen Tulga
+###### Khuslen Tulga
 
 *Motivation: Enjoyed playing the mobile app for glow hockey*
 _Therefore I wanted to try programming it with arcade_
